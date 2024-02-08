@@ -8,3 +8,7 @@ We created the Telugu dataset to address the challenge of building Automatic Spe
  •	 Each speaker's recordings are organized within a dedicated directory.
 
  •	 The "Telugu_meta.txt" file supplements the dataset, offering meta information, including name, age, gender, and native region for each speaker.
+ 
+ •	 Additionally, a "Sample Recordings" folder is included, containing representative audio samples from each class (spoken word). 
+
+ 
